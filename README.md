@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="Screenshot 2026-07-29 at 10 51 05 PM" src="https://github.com/user-attachments/assets/09b5361a-cc6c-4d85-afc6-382c5036957e" /># 🎬 Automated Video Dubbing System
+# 🎬 Automated Video Dubbing System
 
 An AI-powered Python application that automatically downloads a YouTube video, transcribes the speech using Whisper, translates it into English, generates natural English voice using Edge TTS, and merges the dubbed audio back into the original video using FFmpeg.
 
@@ -114,7 +114,9 @@ https://youtu.be/sdxLqbAObF0
 ## 📸 Project Demo
 
 ![Project Demo](<img width="1470" height="956" alt="demo" src="https://github.com/user-attachments/assets/0a626cac-d29e-45ca-8ba2-cb7aba08ad90" />)
-<img width="1470" height="956" alt="Screenshot 2026-07-29 at 10 51 05 PM" src="https://github.com/user-attachments/assets/37f91458-4cba-4c10-921d-9387de9c1378" />
+
+
+
 
 
 

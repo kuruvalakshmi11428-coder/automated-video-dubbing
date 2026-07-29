@@ -1,0 +1,170 @@
+{
+    "detected_language": "hi",
+    "language_probability": 0.9927,
+    "target_language": "English",
+    "segment_count": 23,
+    "segments": [
+        {
+            "id": 1,
+            "start": 0.0,
+            "end": 4.28,
+            "duration": 4.28,
+            "text": "A long time ago, a king of a kingdom came out of his palace."
+        },
+        {
+            "id": 2,
+            "start": 4.84,
+            "end": 9.92,
+            "duration": 5.08,
+            "text": "He reached a farm, where a farmer was working hard."
+        },
+        {
+            "id": 3,
+            "start": 10.48,
+            "end": 11.48,
+            "duration": 1.0,
+            "text": "The king asked him,"
+        },
+        {
+            "id": 4,
+            "start": 11.72,
+            "end": 14.72,
+            "duration": 3.0,
+            "text": "Why do you work so hard? Why don't you rest?"
+        },
+        {
+            "id": 5,
+            "start": 15.76,
+            "end": 20.44,
+            "duration": 4.68,
+            "text": "The king is full of hard work and he gets peace."
+        },
+        {
+            "id": 6,
+            "start": 20.72,
+            "end": 22.36,
+            "duration": 1.64,
+            "text": "The king liked what the farmer said."
+        },
+        {
+            "id": 7,
+            "start": 23.2,
+            "end": 26.52,
+            "duration": 3.32,
+            "text": "He gave a gold coin to the farmer and said,"
+        },
+        {
+            "id": 8,
+            "start": 26.88,
+            "end": 29.28,
+            "duration": 2.4,
+            "text": "I'll give you another reward tomorrow."
+        },
+        {
+            "id": 9,
+            "start": 29.4,
+            "end": 33.56,
+            "duration": 4.16,
+            "text": "The farmer reached the palace, but a lot of people came to meet the king."
+        },
+        {
+            "id": 10,
+            "start": 34.76,
+            "end": 38.16,
+            "duration": 3.4,
+            "text": "The farmer waited for hours, but he didn't come back."
+        },
+        {
+            "id": 11,
+            "start": 38.48,
+            "end": 40.24,
+            "duration": 1.76,
+            "text": "The farmer started going back tired."
+        },
+        {
+            "id": 12,
+            "start": 40.88,
+            "end": 42.6,
+            "duration": 1.72,
+            "text": "The king saw him and called him back."
+        },
+        {
+            "id": 13,
+            "start": 42.92,
+            "end": 43.8,
+            "duration": 0.88,
+            "text": "The king said,"
+        },
+        {
+            "id": 14,
+            "start": 43.88,
+            "end": 45.84,
+            "duration": 1.96,
+            "text": "You've been waiting for a long time."
+        },
+        {
+            "id": 15,
+            "start": 45.92,
+            "end": 46.88,
+            "duration": 0.96,
+            "text": "Didn't you get angry?"
+        },
+        {
+            "id": 16,
+            "start": 47.08,
+            "end": 51.28,
+            "duration": 4.2,
+            "text": "Your Highness, if a farmer can wait for a while after the seeds are sown,"
+        },
+        {
+            "id": 17,
+            "start": 51.6,
+            "end": 54.96,
+            "duration": 3.36,
+            "text": "then it's not a big deal to wait for the reward."
+        },
+        {
+            "id": 18,
+            "start": 55.12,
+            "end": 55.92,
+            "duration": 0.8,
+            "text": "The king said,"
+        },
+        {
+            "id": 19,
+            "start": 56.16,
+            "end": 57.56,
+            "duration": 1.4,
+            "text": "You're really intelligent."
+        },
+        {
+            "id": 20,
+            "start": 57.84,
+            "end": 60.4,
+            "duration": 2.56,
+            "text": "Your hard work and hard work are your greatest achievement."
+        },
+        {
+            "id": 21,
+            "start": 60.64,
+            "end": 62.64,
+            "duration": 2.0,
+            "text": "The king gave a lot of rewards to the farmer."
+        },
+        {
+            "id": 22,
+            "start": 62.92,
+            "end": 63.52,
+            "duration": 0.6,
+            "text": "And he said,"
+        },
+        {
+            "id": 23,
+            "start": 64.12,
+            "end": 66.72,
+            "duration": 2.6,
+            "text": "People like you are the real strength of my kingdom."
+        }
+    ],
+    "complete_text": "A long time ago, a king of a kingdom came out of his palace. He reached a farm, where a farmer was working hard. The king asked him, Why do you work so hard? Why don't you rest? The king is full of hard work and he gets peace. The king liked what the farmer said. He gave a gold coin to the farmer and said, I'll give you another reward tomorrow. The farmer reached the palace, but a lot of people came to meet the king. The farmer waited for hours, but he didn't come back. The farmer started going back tired. The king saw him and called him back. The king said, You've been waiting for a long time. Didn't you get angry? Your Highness, if a farmer can wait for a while after the seeds are sown, then it's not a big deal to wait for the reward. The king said, You're really intelligent. Your hard work and hard work are your greatest achievement. The king gave a lot of rewards to the farmer. And he said, People like you are the real strength of my kingdom."
+}

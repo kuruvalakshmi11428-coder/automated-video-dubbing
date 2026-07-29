@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+temp/
+tests/
+
+ZIP
+*.zip
+
+automated-video-dubbing-submission/
+
+*.wav
+*.mp3
+*.m4a
